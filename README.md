@@ -5,6 +5,7 @@
 https://github.com/user-attachments/assets/87274cb4-409c-46d5-8e89-8a11e9390017
 
 
+A visual representation of a genetic algorithm used for the optimization of the research process. (e.g., coverage tests)
 
 ## Run Locally
 
