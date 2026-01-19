@@ -1,9 +1,10 @@
 
-# GENETIC ALGORITHM VISUALLY  
+# GENETIC ALGORITHM VISUAL 
 
-This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1nKgKqdVgMIhtJ2XzfwdHpH-DN-Nhn5Ee
+https://github.com/user-attachments/assets/87274cb4-409c-46d5-8e89-8a11e9390017
+
+
 
 ## Run Locally
 
