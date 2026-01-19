@@ -1,0 +1,5 @@
+{
+  "name": "EvolvePath: Genetic Algorithm Explorer",
+  "description": "An interactive visualization of genetic algorithms where a population of agents evolves over generations to find the optimal path to a target while avoiding obstacles. Features real-time fitness tracking and AI-powered evolution analysis.",
+  "requestFramePermissions": []
+}
